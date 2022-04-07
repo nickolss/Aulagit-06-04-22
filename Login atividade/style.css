@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+h1 {
+	text-indent: 20px;
+	
+	
+}
+
+legend {
+	font-size:20pt;
+	color:#606060;
+	
+	
+	
+	
+}
+
+p {
+	font-family:arial, sans-serif;
+	width:400px;
+	
+	
+}
+
+form {
+	width: 500px;
+	display:absolute;
+	border:500px;
+	margin:0px;
+	box-shadow: 3px 3px 2px black;
+	background: url(icone-contato.png) no-repeat;
+	
+	
+	
+}
